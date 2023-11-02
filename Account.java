@@ -10,7 +10,7 @@ public class Account {
     private String name = "";
     private String email = "";
     private LocalDate dateOfBirth = null;
-    private int gender = -1;
+    private int gender = 0;
     private String countryOfOrigin = "";
     private String medicalConditions = "";
     private CriminalRecord criminalRecord = null;
