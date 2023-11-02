@@ -7,7 +7,7 @@ public class Account {
     private static Workflow w;
     // private Account acc = null;
 
-    private String name = "";
+    //private String name = "";
     private String email = "";
     private LocalDate dateOfBirth = null;
     private int gender = -1;
