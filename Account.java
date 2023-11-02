@@ -5,7 +5,7 @@ public class Account {
 
 	public static void main (String []args) {
 		for (int i = 0; i < 10; i++) {
-			System.out.print("kabir is gay. ");
+			System.out.print("kabir is dumb. ");
 		}
 	}
     private static boolean canAssignID = true, canAssignAlienNumber = true;
