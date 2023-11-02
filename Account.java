@@ -1,6 +1,13 @@
 import java.time.LocalDate;
 
 public class Account {
+
+
+	public static void main (String []args) {
+		for (int i = 0; i < 10; i++) {
+			System.out.print("kabir is gay. ");
+		}
+	}
     private static boolean canAssignID = true, canAssignAlienNumber = true;
     private static long nextIdInSystem = 0;
     private static long nextAlienNumber = 0;
